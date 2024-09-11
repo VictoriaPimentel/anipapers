@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: victoria4242/anipapers
+    ports:
+      - "8080:80"
